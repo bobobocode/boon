@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='boon-common',
-    version='1.0.0-beta.1',
+    version='1.0.0-beta.2',
     keywords=("common", "utils", "protocol"),
     url='https://github.com/bobobozzz/boon.git',
     author='bobobocode',
