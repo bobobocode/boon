@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
-#BoBoBo#
+# BoBoBo
 
 from sqlite3 import dbapi2
 
-import driven.app.db.database as database
+import boon.db.database as database
 
 
 def get_db(conf):

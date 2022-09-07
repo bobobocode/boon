@@ -4,7 +4,7 @@
 
 
 import os
-from boon.utils.db.sqlite3 import get_db
+from boon.db.sqlite3 import get_db
 from boon.utils.conf import get_conf
 from boon.utils.log import get_logger
 
