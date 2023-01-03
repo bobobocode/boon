@@ -132,3 +132,5 @@ dmypy.json
 *.swp
 test-venv
 test-log.txt
+.DS_Store
+.md.html
